@@ -1,0 +1,15 @@
+name: ml
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter_http_over_ws
+  - pytrends
+  - tensorflow
+  - numpy
+  - seaborn
+  - scikit-learn
+  - tensorflow-gpu=2.1
+  - pandas
+  - matplotlib
+prefix: C:\Users\dinos\anaconda3\envs\ml
